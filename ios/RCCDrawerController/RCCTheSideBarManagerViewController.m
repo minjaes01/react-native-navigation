@@ -166,7 +166,7 @@
     else if ([type isEqualToString:@"wunder-list"]) self.animationStyle = SidebarTransitionStyleWunderlist;
     
     //    currently unsuported animation types
-    //    else if ([type isEqualToString:@"feedly"]) self.animationStyle = SidebarTransitionStyleFeedly;
+       else if ([type isEqualToString:@"feedly"]) self.animationStyle = SidebarTransitionStyleFeedly;
     //    else if ([type isEqualToString:@"flipboard"]) self.animationStyle = SidebarTransitionStyleFlipboard;
     
     
